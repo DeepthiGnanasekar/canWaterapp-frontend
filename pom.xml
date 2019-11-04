@@ -5,7 +5,7 @@
   <artifactId>maven-frontController</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>maven-frontController Maven Webapp</name>
+  <name>canwaterapp-frontController Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
   <dependency>
@@ -32,6 +32,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>maven-frontController</finalName>
+    <finalName>canwaterapp-frontController</finalName>
   </build>
 </project>
